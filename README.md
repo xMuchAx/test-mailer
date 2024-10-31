@@ -97,7 +97,7 @@ Pour utiliser Gmail en tant que transporteur SMTP :
 
 ## Auteur
 
-- **Nom :** Jacinto valentino
+- **Nom :** Jacinto Valentino
 - **Projet de cours :** Master 1 Développement Web à l'ECV Paris Digital
 
 ## Licence
