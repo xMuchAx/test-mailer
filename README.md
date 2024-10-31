@@ -24,7 +24,7 @@
 1. **Cloner le projet**
 
    ```bash
-   git clone https://github.com/QuentinGP23/test-auto-exo.git
+   git clone https://github.com/xMuchAx/test-mailer.git
    cd mailler
    ```
 
@@ -97,7 +97,7 @@ Pour utiliser Gmail en tant que transporteur SMTP :
 
 ## Auteur
 
-- **Nom :** Quentin GEOFFROY-PITAILLER
+- **Nom :** Jacinto valentino
 - **Projet de cours :** Master 1 Développement Web à l'ECV Paris Digital
 
 ## Licence
